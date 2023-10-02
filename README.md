@@ -1,5 +1,5 @@
 # Computer--Vision-Lectures
-This is a series of jupyter notebooks that tries to cover computer vision from its origins to the present day
+This is a series of Jupyter notebooks that attempts to cover computer vision from its origins to the present day.
 
 <h2>Lecture 1 (How vision works)</h2>
 
